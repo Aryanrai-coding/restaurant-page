@@ -9,23 +9,23 @@ export function loadMenupage() {
 
 <div class="menu-card">
     <div class="item">
-        <img src="../images/chickenpizza.png" alt="">
+        <img src="images/chickenpizza.png" alt="">
         <p class="item-name">Chicken Pizza</p>
     </div>
     <div class="item">
-        <img src="../images/pepperonipizza.png" alt="">
+        <img src="images/pepperonipizza.png" alt="">
         <p class="item-name">Pepporoni Pizza</p>
     </div>
     <div class="item">
-        <img src="../images/mushroompizza.png" alt="">
+        <img src="images/mushroompizza.png" alt="">
         <p class="item-name">Mushroom Pizza</p>
     </div>
     <div class="item">
-        <img src="../images/margheritapizza.png" alt="">
+        <img src="images/margheritapizza.png" alt="">
         <p class="item-name">Margherita Pizza</p>
     </div>
     <div class="item">
-        <img src="../images/garlicbreadpizza.png" alt="">
+        <img src="images/garlicbreadpizza.png" alt="">
         <p class="item-name">Garlic Bread Pizza</p>
     </div>
 </div>

@@ -130,7 +130,7 @@ table {
 }
 
 body {
-    background-image: url('../images/homepageimg.jpg');
+    background-image: url('images/homepageimg.jpg');
     background-size: cover;
     background-attachment: fixed;
     font-family: "Italiana", sans-serif;
